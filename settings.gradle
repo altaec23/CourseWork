@@ -1,3 +1,4 @@
 rootProject.name = 'CourseWork'
 include 'HiberModule'
 include 'Task_1'
+include 'Task_2'
