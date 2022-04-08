@@ -2,8 +2,14 @@
 Considering in more detail the possibilities of Java 8, hibernate, spring boot
 
 ---
-###Состоит из 2 логических блоков:
-### Java Core   
+Состоит из заданий на Java core + немного JavaEE:
+
+Все тесты и здания запускаются с консоли, Java16+
+
+---
+
+### Java Core  
+
    [1] Основы. Примитивные типы<br>
    - Task1 - Написать программу, которая находит минимум из двух чисел, введенных с командной строки<br>
 
@@ -19,7 +25,6 @@ Considering in more detail the possibilities of Java 8, hibernate, spring boot
      **Очередь:** Enqueue(), Dequeue(), isEmpty(), Top(); <br>
        **Стек**: Push(), Pop(), isEmpty(), Top(); <br>
     a) Добавить тесты (junit) на работоспособность очереди,стека, при удалении из пустой очереди, добавлении и т.д.
-<br>
     б) javaDoc <br><br>
 
    - Task5 - Придумать свой пример использования абстрактной фабрики и реализовать ее (шаблоны: фабрика и абстрактная фабрика)
@@ -58,6 +63,7 @@ Considering in more detail the possibilities of Java 8, hibernate, spring boot
 
 ---
 ### Java EE
+Для данных тем был создан отдельный проект: https://github.com/altaec23/CourseWorkJavaEE <br>
    [19] Базы данных<br>
    [20] Средства сборки<br>
    [21] Hibernate<br>
